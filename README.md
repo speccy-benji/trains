@@ -9,3 +9,6 @@ Aim 2 - similar to above but within 30 mins of arrival time ie avoiding dekay re
 
 DataData source National rail APIs http://www.nationalrail.co.uk/100296.aspx
 Historic service performance API looks like best bet
+
+Scripts:
+nre_data.py - reads service metrics and details from National Rail Enquiries Darwin APIs
